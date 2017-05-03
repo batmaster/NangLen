@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1076753331413",
+    "firebase_url": "https://nanglen-f66de.firebaseio.com",
+    "project_id": "nanglen-f66de",
+    "storage_bucket": "nanglen-f66de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076753331413:android:5b8587d7e79406cd",
+        "android_client_info": {
+          "package_name": "com.nanglen.social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076753331413-0ars4q94enrru3499fsvb7sq3mocg59c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVX-5BpgHGCT8O46CxPeQjugshDWiJ2Lo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
